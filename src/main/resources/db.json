@@ -1,0 +1,14 @@
+{
+  "9cde7c19-a577-45ee-a2a9-fa86c72a90d2" : {
+    "totalFunds" : [
+      {
+        "portfolio" : "HighRisk",
+        "amount" : 1000.0
+      },
+      {
+        "portfolio" : "Retirement",
+        "amount" : 1000.0
+      }
+    ]
+  }
+}
